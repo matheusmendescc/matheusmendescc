@@ -1,4 +1,4 @@
-## Olá, Eu sou Matheus Mendes!👾
+## Olá, Eu sou Matheus Mendes!
 
 - Estudando Python 👾
 
