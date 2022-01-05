@@ -1,7 +1,5 @@
 <h2> Olá, Eu sou Matheus Mendes! </h2>
 
-Sou estudante de programação e estou cursando Engenharia de Computação(IFPB), segundo período. Tenho afinidade com o aprendizado, inclusive de novas tecnologias.
-
 •Conhecimento em:
 - Python
 - C
