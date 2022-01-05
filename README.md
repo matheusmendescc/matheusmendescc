@@ -1,4 +1,4 @@
-## Olá, Eu sou Matheus Mendes!
+<h2> Olá, Eu sou Matheus Mendes! </h2>
 
 <div align="center">
   <a href="https://github.com/mendespy">
