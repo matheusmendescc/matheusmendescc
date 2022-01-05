@@ -1,5 +1,18 @@
 <h2> Olá, Eu sou Matheus Mendes! </h2>
 
+Sou estudante de programação e estou cursando Engenharia de Computação(IFPB), segundo período. Tenho afinidade com o aprendizado, inclusive de novas tecnologias.
+
+•Conhecimento em:
+- Python
+- C
+
+•Estudando:
+- HTML 5
+- CSS 3
+- JAVASCRIPT
+
+Sempre aprendendo e nunca deixando de estudar!📚
+
 <div align="center">
   <a href="https://github.com/mendespy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendespy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
