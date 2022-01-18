@@ -4,11 +4,11 @@ Sou estudante de programação e estou cursando Engenharia de Computação(IFPB)
 
 •Conhecimento em:
 - Python
-- C
-
-•Estudando:
 - HTML 5
 - CSS 3
+
+•Estudando:
+- C
 - JAVASCRIPT
 
 Sempre aprendendo e nunca deixando de estudar!📚
