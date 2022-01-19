@@ -1,4 +1,4 @@
-<h2> Olá, Eu sou Matheus Mendes! </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%238E3BC5&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3CMatheus+Mendes%2F%3E)](https://git.io/typing-svg)
 
 Sou estudante de programação e estou cursando Engenharia de Computação(IFPB), segundo período. Tenho afinidade com o aprendizado, inclusive de novas tecnologias.
 
