@@ -1,17 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%238E3BC5&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3CMatheus+Mendes%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3CMatheus+Mendes%2F%3E)](https://git.io/typing-svg)
 
-Sou estudante de programação e estou cursando Engenharia de Computação(IFPB), segundo período. Tenho afinidade com o aprendizado, inclusive de novas tecnologias.
+Olá! Sou estudante de programação e estou cursando Engenharia de Computação(IFPB), segundo período. Tenho afinidade com o aprendizado, inclusive de novas tecnologias.
 
-•Conhecimento em:
-- Python
-- HTML 5
-- CSS 3
+<p align="center">Sempre aprendendo e nunca deixando de estudar!📚</p>
 
-•Estudando:
-- C
-- JAVASCRIPT
-
-Sempre aprendendo e nunca deixando de estudar!📚
+<div align="center">
+  <table>
+     <tr>
+        <td align="center">Conhecimento em:</td>
+        <td align="center">Estudando Atualmente:</td>
+        <td align="center">Interesse em aprender:</td>
+      </tr>
+      <tr>
+        <td align="center">
+        <img align="center"  title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+        <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      </td>
+      <td align="center">
+        <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" title="C" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+        <img align="center" title="Pandas" alt="Pd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+        <img align="center" title="NumPY" alt="np" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+      </td>
+      <td align="center">
+       <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+       <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+       <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <a href="https://github.com/mendespy">
@@ -20,14 +39,9 @@ Sempre aprendendo e nunca deixando de estudar!📚
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="math-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="math-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="math-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="math-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="math-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="math-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/897594765997146194/905988631976632350/101_Sem_Titulo_20210206142927_1.png?width=534&height=670">
 </div>
-
+  
 ##
 
 <div>
