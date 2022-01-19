@@ -4,6 +4,8 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
 
 <p align="center">Sempre aprendendo e nunca deixando de estudar!📚</p>
 
+<h2 align="center">Minhas skills :nerd_face:</h2>
+
 <div align="center">
   <table>
      <tr>
@@ -41,8 +43,8 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
 <div style="display: inline_block"><br>
   <img align="right" alt="math-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/897594765997146194/905988631976632350/101_Sem_Titulo_20210206142927_1.png?width=534&height=670">
 </div>
-  
-##
+
+<h2 align="center">Meus Contatos :iphone:</h2>
 
 <div>
 
