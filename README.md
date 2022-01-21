@@ -52,7 +52,11 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
   <a href = "mailto:matheusmcc.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-mendes-castro-cavalcante-95b857203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
   ![Snake animation](https://github.com/mendespy/mendespy/blob/output/github-contribution-grid-snake.svg)
   
+</div>
+ 
+<div align="center">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/84646971/150537521-8d626b4d-5cf4-41a4-94d5-01f18b47e521.gif">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=40&center=true&vCenter=true&multiline=true&height=200&lines=Welcome+to;my;GitHub">
 </div>
