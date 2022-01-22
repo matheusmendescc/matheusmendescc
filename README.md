@@ -56,8 +56,3 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
   ![Snake animation](https://github.com/mendespy/mendespy/blob/output/github-contribution-grid-snake.svg)
   
 </div>
- 
-<div align="center">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/84646971/150537521-8d626b4d-5cf4-41a4-94d5-01f18b47e521.gif">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=40&center=true&vCenter=true&multiline=true&height=200&lines=Welcome+to;my;GitHub">
-</div>
