@@ -44,6 +44,7 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
   
 <div style="display: inline_block"><br>
   <img align="right" alt="math-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84646971/151370454-d71d3c89-f52a-4a8d-b744-c1d10c90c87c.gif">
+  <!-- by: @leanataneto -->
 </div>
 
 <h2 align="center">Meus Contatos :iphone:</h2>
