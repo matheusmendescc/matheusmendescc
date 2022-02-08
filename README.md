@@ -23,7 +23,7 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
       <td align="center">
         <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" title="C" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-        <img align="center" title="Pandas" alt="Pd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+        <img align="center" title="Pandas" alt="Pd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
         <img align="center" title="NumPY" alt="np" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
       </td>
       <td align="center">
