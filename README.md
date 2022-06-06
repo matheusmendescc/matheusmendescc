@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3CMatheus+Mendes%2F%3E)](https://git.io/typing-svg)
 
-Olá! Sou estudante de programação e estou cursando Engenharia de Computação(IFPB), segundo período. Tenho afinidade com o aprendizado, inclusive de novas tecnologias.
+Olá! Sou estudante de programação e estou cursando Engenharia de Computação(IFPB), terceiro período. Tenho afinidade com o aprendizado, inclusive de novas tecnologias.
 
 <p align="center">Sempre aprendendo e nunca deixando de estudar!📚</p>
 
@@ -22,15 +22,14 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
       </td>
       <td align="center">
         <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" title="C" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-        <img align="center" title="Pandas" alt="Pd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-        <img align="center" title="NumPY" alt="np" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+        <img align="center" title="C++" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+        <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       </td>
       <td align="center">
        <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-       <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
        <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" title="Node" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+        <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </td>
     </tr>
   </table>
