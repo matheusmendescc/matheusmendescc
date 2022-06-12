@@ -37,8 +37,8 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
 
 <div align="center">
   <a href="https://github.com/matheusmendescc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mendespy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendespy&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusmendescc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendescc&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
