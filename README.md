@@ -24,12 +24,13 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
         <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" title="C++" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
         <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+        <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
       </td>
       <td align="center">
-       <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
        <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" title="Node" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
         <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     </td>
     </tr>
   </table>
@@ -42,8 +43,7 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="math-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84646971/151370454-d71d3c89-f52a-4a8d-b744-c1d10c90c87c.gif">
-  <!-- by: @leanataneto -->
+ <img align="right" alt="math-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84646971/151370454-d71d3c89-f52a-4a8d-b744-c1d10c90c87c.gif">
 </div>
 
 <h2 align="center">Meus Contatos :iphone:</h2>
@@ -54,5 +54,5 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
   <a href = "mailto:matheusmcc.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-mendes-castro-cavalcante-95b857203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/mendespy/mendespy/blob/output/github-contribution-grid-snake.svg)  
+  ![Snake animation](https://github.com/matheusmendescc/matheusmendescc/blob/output/github-contribution-grid-snake.svg)  
 </div>
