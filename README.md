@@ -35,19 +35,6 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
     </td>
     </tr>
   </table>
-  
-  <table>
-    <tr>
-      <td>
-        Sistema Operacional
-      </td>
-    </tr>
-    <tr align="center">
-      <td align="center">
-        <img align="center" title="Linux" alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
