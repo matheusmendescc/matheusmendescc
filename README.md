@@ -64,8 +64,3 @@ Olá! Sou estudante de programação e estou cursando Engenharia de Computação
 
   ![Snake animation](https://github.com/matheusmendescc/matheusmendescc/blob/output/github-contribution-grid-snake.svg)  
 </div>
-
-<div align="right">
-  <img height="200" src="https://user-images.githubusercontent.com/84646971/175026949-c6b6d2dd-9b11-4770-b348-ae1d6df16572.gif">
-  <!--by: @leanataneto-->
-</div>
