@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=75&center=true&vCenter=true&width=1920&height=100&lines=%3CMatheus+Mendes%2F%3E)](https://git.io/typing-svg)
+![BANNER-MATHEUS-V1](https://user-images.githubusercontent.com/84646971/220355894-ad313d2c-d834-4930-8d1f-298a178098f2.png)
 
-Olá! Sou estudante de programação e estou cursando Engenharia de Computação(IFPB), terceiro período. Tenho afinidade com o aprendizado, inclusive de novas tecnologias.
+
+Olá! Sou estudante de programação e estou cursando Ciência da Computação - Unipê. Sou um apaixonado por inovação e tecnologia!
 
 <p align="center">Sempre aprendendo e nunca deixando de estudar!📚</p>
 
