@@ -193,28 +193,16 @@ MVP SaaS para gestão financeira, modelagem financeira e tomada de decisão.
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td colspan="2" valign="top" align="center">
 
-<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo Hidra Pure App" />
+<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo Hidra Pure" />
 
-### Hidra Pure — App Meu Dia
-Aplicativo mobile para hidratação, desafio de 21 dias e experiência pós-compra.
+### Hidra Pure — App Meu Dia & Landing Pages
+Aplicativo mobile e landing pages de conversão para hidratação, experiência digital, SEO, performance e campanhas.
 
-**iOS + Android · 100+ downloads · notificações push**
+**iOS + Android · 100+ downloads · 5 páginas · GA4 + Pixel · conversão e vendas**
 
-`React Native` `Supabase` `UX/UI`
-
-</td>
-    <td width="50%" valign="top" align="center">
-
-<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo Landing Pages" />
-
-### Landing Pages — Hidra Pure
-Landing pages de conversão para campanhas digitais, SEO e performance.
-
-**5 páginas · GA4 + Pixel · conversão e vendas**
-
-`Next.js` `React` `TypeScript` `SEO`
+`React Native` `Supabase` `Next.js` `React` `TypeScript` `SEO` `GA4` `Push Notifications`
 
 </td>
   </tr>
