@@ -169,7 +169,7 @@ AI-Assisted Development
   <tr>
     <td width="50%" valign="top" align="center">
 
-<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo Mytrus" />
+<img src="logos/logo_mytrus_branca.png" width="64" alt="Logo Mytrus" />
 
 ### Mytrus CRM & SaaS Operations Platform
 Sistema interno para gestão de leads, clientes, projetos, pagamentos, assinaturas e métricas SaaS.
@@ -181,7 +181,7 @@ Sistema interno para gestão de leads, clientes, projetos, pagamentos, assinatur
 </td>
     <td width="50%" valign="top" align="center">
 
-<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo GeraProfit" />
+<img src="logos/logo_geracao_profit.png" width="64" alt="Logo GeraProfit" />
 
 ### GeraProfit — SaaS de FP&A
 MVP SaaS para gestão financeira, modelagem financeira e tomada de decisão.
@@ -195,7 +195,7 @@ MVP SaaS para gestão financeira, modelagem financeira e tomada de decisão.
   <tr>
     <td colspan="2" valign="top" align="center">
 
-<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo Hidra Pure" />
+<img src="logos/logo_hidra_pure.png" width="64" alt="Logo Hidra Pure" />
 
 ### Hidra Pure — App Meu Dia & Landing Pages
 Aplicativo mobile e landing pages de conversão para hidratação, experiência digital, SEO, performance e campanhas.
