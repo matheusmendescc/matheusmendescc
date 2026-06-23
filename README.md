@@ -165,117 +165,60 @@ AI-Assisted Development
 
 ## 💼 Projetos em destaque
 
-### 🧩 Mytrus CRM & SaaS Operations Platform
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
 
+<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo Mytrus" />
+
+### Mytrus CRM & SaaS Operations Platform
 Sistema interno para gestão de leads, clientes, projetos, pagamentos, assinaturas e métricas SaaS.
 
-**O que resolve:** centraliza operação comercial e operacional, substituindo planilhas, Trello e processos manuais.
+**500+ leads · 5 clientes recorrentes · operação centralizada**
 
-**Funcionalidades principais:**
+`React` `Next.js` `TypeScript` `Node.js` `Supabase` `Stripe`
 
-- CRM de leads e clientes;
-- classificação de leads;
-- gestão de projetos ativos;
-- assinaturas recorrentes;
-- pagamentos;
-- NPS;
-- histórico operacional;
-- permissões por usuário;
-- dashboards com MRR, LTV, Forecast e Churn Rate;
-- integração com Stripe.
+</td>
+    <td width="50%" valign="top" align="center">
 
-**Impacto:**
+<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo GeraProfit" />
 
-- 500+ leads organizados;
-- 5 clientes recorrentes ativos;
-- redução de processos manuais;
-- operação comercial centralizada;
-- dashboards estratégicos para tomada de decisão.
+### GeraProfit — SaaS de FP&A
+MVP SaaS para gestão financeira, modelagem financeira e tomada de decisão.
 
-**Stack:**  
-`React` · `Next.js` · `TypeScript` · `Node.js` · `Supabase` · `SQL/PostgreSQL` · `Stripe` · `APIs REST` · `Vercel/Railway` · `AI IDEs`
+**25 usuários validados · menos planilhas · novo canal de faturamento**
 
----
+`React` `TypeScript` `Next.js` `API do ChatGPT`
 
-### 📊 GeraProfit — SaaS de FP&A e Modelagem Financeira
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
 
-MVP SaaS voltado para gestão financeira, FP&A, modelagem financeira e tomada de decisão empresarial.
+<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo Hidra Pure App" />
 
-**Funcionalidades principais:**
+### Hidra Pure — App Meu Dia
+Aplicativo mobile para hidratação, desafio de 21 dias e experiência pós-compra.
 
-- importação de planilhas;
-- dashboards;
-- valuation;
-- modelagem financeira;
-- VPL e TIR;
-- relatórios;
-- chat com IA;
-- relatórios automatizados com IA;
-- painel administrativo;
-- métricas de usuários e engajamento.
+**iOS + Android · 100+ downloads · notificações push**
 
-**Impacto:**
+`React Native` `Supabase` `UX/UI`
 
-- MVP validado por 25 usuários;
-- redução da dependência de planilhas;
-- criação de novo canal potencial de faturamento;
-- transformação de conhecimento financeiro em produto digital.
+</td>
+    <td width="50%" valign="top" align="center">
 
-**Stack:**  
-`React` · `TypeScript` · `Next.js` · `Replit` · `API do ChatGPT` · `Autenticação` · `Banco de dados`
+<img src="https://via.placeholder.com/64x64.png?text=Logo" width="64" alt="Logo Landing Pages" />
 
----
+### Landing Pages — Hidra Pure
+Landing pages de conversão para campanhas digitais, SEO e performance.
 
-### 💧 Hidra Pure — App Meu Dia
+**5 páginas · GA4 + Pixel · conversão e vendas**
 
-Aplicativo mobile publicado para iOS e Android, desenvolvido para acompanhamento de hidratação e experiência pós-compra.
+`Next.js` `React` `TypeScript` `SEO`
 
-**Funcionalidades principais:**
-
-- login;
-- cadastro de usuário;
-- cálculo de consumo diário de água;
-- desafio de 21 dias;
-- cadastro de produtos;
-- controle da vida útil dos produtos;
-- notificações push;
-- lembretes personalizados.
-
-**Impacto:**
-
-- app publicado na App Store e Google Play;
-- aproximadamente 100 downloads iniciais;
-- fortalecimento da experiência pós-compra;
-- conexão entre produto físico e experiência digital.
-
-**Stack:**  
-`React Native` · `Supabase` · `Push Notifications` · `UX/UI` · `AI-Assisted Development`
-
----
-
-### 🧲 Landing Pages de Conversão — Hidra Pure
-
-Desenvolvimento de landing pages para campanhas digitais, tráfego pago, SEO, performance e captação de leads.
-
-**Projetos incluíram páginas para:**
-
-- Hidra Pure;
-- Hidra Plus;
-- Hidra Filter;
-- Hidra Life;
-- app Hidra Pure — Meu Dia.
-
-**Impacto:**
-
-- 5 landing pages em Next.js;
-- apoio a tráfego pago;
-- melhoria de performance e navegação;
-- integração com GA4, Pixel e Meta Ads;
-- apoio a conversão e vendas.
-
-**Stack:**  
-`Next.js` · `React` · `TypeScript` · `SEO` · `GA4` · `Pixel/Meta Ads` · `Performance Web`
-
+</td>
+  </tr>
+</table>
 ---
 
 ## 📈 GitHub Analytics
