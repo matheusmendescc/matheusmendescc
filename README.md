@@ -8,7 +8,7 @@ Repositório correto: github.com/matheusmendescc/matheusmendescc
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000020,50:2636BD,100:344FEB&text=Matheus%20Mendes&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Web%20Developer%20%7C%20Product%20Builder%20%7C%20AI-Assisted%20Development&descAlignY=58&descSize=16" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=344FEB&center=true&vCenter=true&width=900&lines=Desenvolvedor+Web+%26+Analista+de+Sistemas;Full+Stack+%7C+React+%7C+Next.js+%7C+Node.js+%7C+Supabase;SaaS+%7C+CRM+%7C+Dashboards+%7C+Automa%C3%A7%C3%B5es;Produtos+digitais+orientados+a+neg%C3%B3cio;AI-Assisted+Development+com+Cursor+e+Google+Antigravity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=344FEB&center=true&vCenter=true&width=900&lines=Desenvolvedor+Web+%26+Analista+de+Sistemas;Full+Stack+%7C+React+%7C+Next.js+%7C+Node.js+%7C+Supabase;SaaS+%7C+CRM+%7C+Dashboards+%7C+Automa%C3%A7%C3%B5es;Produtos+digitais+orientados+a+neg%C3%B3cio;AI-Assisted+Development+com+Cursor+e+Google+Antigravity" alt="Typing SVG" />
   </a>
 
   <br />
