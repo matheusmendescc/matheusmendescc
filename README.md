@@ -73,21 +73,37 @@ Tenho experiência construindo soluções digitais do levantamento de requisitos
 
 ## 🧠 Áreas em que atuo
 
-```txt
-Desenvolvimento Web
-Aplicações Internas
-Dashboards
-CRM
-SaaS
-APIs REST
-Integrações
-Automações
-Landing Pages
-Apps Mobile
-Produto Digital
-UX/UI
-AI-Assisted Development
-```
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
+      <h4>💻 Engenharia Web & Mobile</h4>
+      <ul>
+        <li>Desenvolvimento Web</li>
+        <li>Aplicações Internas</li>
+        <li>Dashboards & CRMs</li>
+        <li>APIs REST</li>
+        <li>Apps Mobile</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
+      <h4>⚡ Integrações & Negócios</h4>
+      <ul>
+        <li>SaaS Operations</li>
+        <li>Integrações de Sistemas</li>
+        <li>Automações de Processos</li>
+        <li>Landing Pages de Conversão</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
+      <h4>🧠 Produto & IA</h4>
+      <ul>
+        <li>AI-Assisted Development</li>
+        <li>Produto Digital</li>
+        <li>Experiência do Usuário (UX/UI)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
